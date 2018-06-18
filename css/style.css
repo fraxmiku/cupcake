@@ -60,3 +60,7 @@ h1 {
 
 
 }
+
+div#logo {
+    text-align: -webkit-center;
+}
