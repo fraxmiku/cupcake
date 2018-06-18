@@ -1,0 +1,23 @@
+.col-md-6
+{
+    width: 100%;
+   
+}
+.img-fluid
+{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+}
+h4
+{
+    font-family: 'Shrikhand';
+    font-size: 50px;
+    margin-top: 40px;
+    color: #f63973;
+}
+.prezzo
+{
+    color: #673f28;
+    font-weight: 600;
+}
