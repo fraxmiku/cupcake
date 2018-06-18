@@ -10,7 +10,7 @@ var prodotti = [{
     nome:"Cheesecake",
     descrizione: "Cheesecake New Yorkese con base ai digestive, crema al formaggio fresco, e frutti di bosco.",
     prezzo: 10,
-    immagine: "immagini/cheesecake.jpg",
+    immagine: "immagini/cheesecake2.png",
 },
 {
     id: 3,
