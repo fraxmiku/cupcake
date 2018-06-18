@@ -14,7 +14,7 @@ for (var i=0; i<prodotti.length; i++)
 
     var descrizione=$('<p></p>').html(prodotti[i].descrizione)
 
-    var prezzo=$('<p></p>').html(prodotti[i].prezzo)
+    var prezzo=$('<p class="prezzo"></p>').html(prodotti[i].prezzo + ' &euro;')
 
     var divImmagine=$('<div class="col-md-6 text-center"></div>');
     var immagine=$('<img class="img-fluid"></img>').attr('src', prodotti[i].immagine);
