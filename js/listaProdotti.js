@@ -12,7 +12,7 @@ for (var i=0; i<prodotti.length; i++)
 
     var nome=$('<h4></h4>').html(prodotti[i].nome);
 
-    var descrizione=$('<p></p>').html(prodotti[i].descrizione)
+    var descrizione=$('<p class="descrizione"></p>').html(prodotti[i].descrizione)
 
     var prezzo=$('<p class="prezzo"></p>').html(prodotti[i].prezzo + ' &euro;')
 
